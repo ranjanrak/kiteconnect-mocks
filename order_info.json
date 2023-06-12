@@ -26,7 +26,8 @@
 		"transaction_type": "BUY",
 		"trigger_price": 0,
 		"validity": "DAY",
-		"variety": "regular"
+		"variety": "regular",
+		"modified": false
 	  },
 	  {
 		"average_price": 0,
@@ -53,7 +54,8 @@
 		"transaction_type": "BUY",
 		"trigger_price": 0,
 		"validity": "DAY",
-		"variety": "regular"
+		"variety": "regular",
+		"modified": false
 	  },
 	  {
 		"average_price": 0,
@@ -80,7 +82,8 @@
 		"transaction_type": "BUY",
 		"trigger_price": 0,
 		"validity": "DAY",
-		"variety": "regular"
+		"variety": "regular",
+		"modified": false
 	  },
 	  {
 		"average_price": 0,
@@ -107,7 +110,8 @@
 		"transaction_type": "BUY",
 		"trigger_price": 0,
 		"validity": "DAY",
-		"variety": "regular"
+		"variety": "regular",
+		"modified": false
 	  },
 	  {
 		"average_price": 0,
@@ -134,7 +138,8 @@
 		"transaction_type": "BUY",
 		"trigger_price": 0,
 		"validity": "DAY",
-		"variety": "regular"
+		"variety": "regular",
+		"modified": false
 	  },
 	  {
 		"average_price": 0,
@@ -161,7 +166,8 @@
 		"transaction_type": "BUY",
 		"trigger_price": 0,
 		"validity": "DAY",
-		"variety": "regular"
+		"variety": "regular",
+		"modified": false
 	  },
 	  {
 		"average_price": 0,
@@ -188,7 +194,8 @@
 		"transaction_type": "BUY",
 		"trigger_price": 0,
 		"validity": "DAY",
-		"variety": "regular"
+		"variety": "regular",
+		"modified": false
 	  },
 	  {
 		"average_price": 0,
@@ -215,7 +222,8 @@
 		"transaction_type": "BUY",
 		"trigger_price": 0,
 		"validity": "DAY",
-		"variety": "regular"
+		"variety": "regular",
+		"modified": false
 	  }
 	]
   }
